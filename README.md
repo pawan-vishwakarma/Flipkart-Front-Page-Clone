@@ -7,4 +7,5 @@ This repository contain Two folders named as HTML and CSS which contain all the 
 2. CSS
 
 ## Snapshot of Project
-C:\Users\pawan\OneDrive\Pictures\Screenshots\Screenshot (32).png
+1.![Screenshot (32)](https://user-images.githubusercontent.com/73687222/119461439-545e3380-bd5d-11eb-9a0f-33f8636f2672.png)
+2.
